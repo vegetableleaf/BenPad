@@ -3,7 +3,7 @@
 Hey guys, this is my first project for Hack Club's Highway program. For my HackPad, I decided to opt for an 8-key macropad, placed in a 4x2 arrangement. The keys correspond to the numbers 1-8, from left to right then top to bottom, with their output being displayed on an OLED screen.
 
 ## CAD Designs
-The case is made from PLA plastic & consists 2 pieces: a (carefully carved out) base and a lid.
+The case was designed using Onshape & consists of 2 pieces: a (carefully carved out) base and a lid.
 ### Full build
 Different angles of the complete build are shown below:
 ![Screenshot 2025-06-20 020106](https://github.com/user-attachments/assets/676d0f33-ce54-4ab9-895d-a3c643ae27d7)
@@ -22,7 +22,7 @@ This better shows how all the different components fit together. The circuitry s
 - 8 Cherry MX switches
 - 4 M3x16mm screws
 - 4 M3x5x4 heatset inserts
-- 1 Case -#(see above) 
+- 1 PLA case -#(see above) 
 - 1 PCB Board! -#(details below)
 
 ## Schematic & PCB
