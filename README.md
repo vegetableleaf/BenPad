@@ -22,8 +22,8 @@ This better shows how all the different components fit together. The circuitry s
 - 8 Cherry MX switches
 - 4 M3x16mm screws
 - 4 M3x5x4 heatset inserts
-- 1 PLA case -#(see above)#-
-- 1 PCB Board! -#(details below)#-
+- 1 PLA case -# (see above)
+- 1 PCB Board! -# (details below)
 
 ## Schematic & PCB
 I designed both the Schematic and PCB using KiCad.
